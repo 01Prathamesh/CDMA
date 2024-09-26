@@ -33,6 +33,8 @@ background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_xxhdpi.
 background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_xxhdpi_round.xml
 background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_xxxhdpi.xml
 background;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_xxxhdpi_round.xml
+bitmap;obj\Debug\net8.0-android\resizetizer\sp\drawable\maui_splash_image.xml
+bitmap;obj\Debug\net8.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
 cache-path;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\157\jl\res\xml\microsoft_maui_essentials_fileprovider_file_paths.xml
 color;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\values\colors.xml
 color;obj\Debug\net8.0-android\res\values\colors.xml
@@ -58,8 +60,12 @@ foreground;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_xxxhdpi
 item;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\153\jl\res\values\styles.xml
 item;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\drawable\maui_splash.xml
 item;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\values\styles.xml
+item;obj\Debug\net8.0-android\resizetizer\sp\drawable\maui_splash_image.xml
+item;obj\Debug\net8.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
 layer-list;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\drawable\maui_splash.xml
 layer-list;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\drawable\maui_splash_image.xml
+layer-list;obj\Debug\net8.0-android\resizetizer\sp\drawable\maui_splash_image.xml
+layer-list;obj\Debug\net8.0-android\resizetizer\sp\drawable-v31\maui_splash_image.xml
 microsoft.maui.controls.platform.compatibility.ShellFlyoutLayout;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\154\jl\res\layout\flyoutcontent.xml
 monochrome;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_hdpi.xml
 monochrome;obj\Debug\net8.0-android\resizetizer\r\mipmap-anydpi-v26\icon_hdpi_round.xml
@@ -80,6 +86,7 @@ resources;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\values\attr.xml
 resources;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\values\colors.xml
 resources;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\156\jl\res\values\styles.xml
 resources;obj\Debug\net8.0-android\res\values\colors.xml
+resources;obj\Debug\net8.0-android\resizetizer\sp\values\maui_colors.xml
 set;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\154\jl\res\anim\enterfromleft.xml
 set;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\154\jl\res\anim\enterfromright.xml
 set;K:\CareerD\CDMA\obj\Debug\net8.0-android\lp\154\jl\res\anim\exittoleft.xml
