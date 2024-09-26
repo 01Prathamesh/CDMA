@@ -1,6 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="28.0.0.1">
-	<application android:allowBackup="true" android:icon="@mipmap/icon_xxxhdpi" android:supportsRtl="true" android:label="CDM" android:theme="@style/SplashTheme"></application>
-	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-	<uses-permission android:name="android.permission.INTERNET" />
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.companyname.cdma"
+          android:versionCode="1"
+          android:versionName="28.0.0.1">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/icon_xxxhdpi"
+        android:supportsRtl="true"
+        android:label="CDM"
+        android:theme="@style/SplashTheme">
+    </application>
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 </manifest>
