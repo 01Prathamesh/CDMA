@@ -40,7 +40,11 @@
 
 	<ItemGroup>
 		<!-- App Icon -->
-		<MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#512BD4" />
+		<MauiIcon Include="Resources\AppIcon\Mipmap\mipmap-mdpi\icon_mdpi.png" />
+		<MauiIcon Include="Resources\AppIcon\Mipmap\mipmap-hdpi\icon_hdpi.png" />
+		<MauiIcon Include="Resources\AppIcon\Mipmap\mipmap-xhdpi\icon_xhdpi.png" />
+		<MauiIcon Include="Resources\AppIcon\Mipmap\mipmap-xxhdpi\icon_xxhdpi.png" />
+		<MauiIcon Include="Resources\AppIcon\Mipmap\mipmap-xxxhdpi\icon_xxxhdpi.png" />
 
 		<!-- Splash Screen -->
 		<MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#512BD4" BaseSize="128,128" />
