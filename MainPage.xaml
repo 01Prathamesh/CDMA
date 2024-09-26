@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CDMA.MainPage"
+             BackgroundColor="#f4f4f4">
+
+    <VerticalStackLayout>
+        <!-- Header -->
+        <StackLayout BackgroundColor="#333" Padding="10">
+            <Label Text="Home" FontSize="24" TextColor="White" Margin="20,0"/>
+            <StackLayout Orientation="Horizontal" HorizontalOptions="EndAndExpand">
+                <Label Text="{Binding Username}" TextColor="White" FontAttributes="Bold" Margin="0,0,20,0"/>
+                <Button Text="Logout" BackgroundColor="#007bff" TextColor="White" Clicked="OnLogoutClicked"/>
+            </StackLayout>
+        </StackLayout>
+
+        <!-- Content Area -->
+        <ScrollView>
+            <StackLayout Padding="20" HorizontalOptions="Center" WidthRequest="1200">
+                <Label Text="Welcome to the Career Dendrogram" FontSize="24" HorizontalTextAlignment="Center"/>
+                <Label Text="Explore career paths, visualize career opportunities, and manage your career planning efficiently." 
+                       HorizontalTextAlignment="Center"/>
+
+                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="20" Margin="0,20">
+                    <Button Text="Logout" Clicked="OnLogoutClicked" />
+                    <Button Text="View Career List" Clicked="OnViewCareerListClicked" />
+                    <Button Text="View Dendrogram" Clicked="OnViewDendrogramClicked" />
+                    <Button Text="View Profile" Clicked="OnViewProfileClicked" />
+                    <Button Text="Start Test" Clicked="OnStartTestClicked" />
+                </StackLayout>
+            </StackLayout>
+        </ScrollView>
+
+        <!-- Footer -->
+        <StackLayout BackgroundColor="#333" Padding="10" VerticalOptions="End">
+            <Label Text="© 2024 Career Dendrogram (HAPY - CaptainPrince). All rights reserved." 
+                   TextColor="White" HorizontalTextAlignment="Center"/>
+        </StackLayout>
+    </VerticalStackLayout>
+</ContentPage>
