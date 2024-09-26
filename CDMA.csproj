@@ -47,7 +47,11 @@
 		<MauiIcon Include="Resources\AppIcon\Mipmap\mipmap-xxxhdpi\icon_xxxhdpi.png" />
 
 		<!-- Splash Screen -->
-		<AndroidResource Include="Platforms\Android\Resources\drawable\splash_screen.png" />
+		<AndroidResource Include="Platforms\Android\Resources\drawable-mdpi\splash_screen.png" />
+		<AndroidResource Include="Platforms\Android\Resources\drawable-hdpi\splash_screen.png" />
+		<AndroidResource Include="Platforms\Android\Resources\drawable-xhdpi\splash_screen.png" />
+		<AndroidResource Include="Platforms\Android\Resources\drawable-xxhdpi\splash_screen.png" />
+		<AndroidResource Include="Platforms\Android\Resources\drawable-xxxhdpi\splash_screen.png" />
 
 		<!-- Images -->
 		<MauiImage Include="Resources\Images\*" />
