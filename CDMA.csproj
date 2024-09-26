@@ -80,4 +80,12 @@
 	  </MauiXaml>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Resources\AppIcon\Mipmap\mipmap-hdpi\" />
+	  <Folder Include="Resources\AppIcon\Mipmap\mipmap-xhdpi\" />
+	  <Folder Include="Resources\AppIcon\Mipmap\mipmap-xxhdpi\" />
+	  <Folder Include="Resources\AppIcon\Mipmap\mipmap-xxxhdpi\" />
+	  <Folder Include="Resources\AppIcon\Mipmap\mipmap-mdpi\" />
+	</ItemGroup>
+
 </Project>
