@@ -7,7 +7,8 @@
         android:allowBackup="true"
         android:icon="@mipmap/icon"
         android:supportsRtl="true"
-        android:label="CDM">
+        android:label="CDM"
+        android:theme="@style/SplashTheme">
     </application>
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
