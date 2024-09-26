@@ -355,10 +355,5 @@ K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
 K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
 K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
 K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
-K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splash_screenSplashScreen.scale-100.png
-K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splash_screenSplashScreen.scale-125.png
-K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splash_screenSplashScreen.scale-150.png
-K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splash_screenSplashScreen.scale-200.png
-K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splash_screenSplashScreen.scale-400.png
 K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
 K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf

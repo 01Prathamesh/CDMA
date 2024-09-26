@@ -263,9 +263,6 @@ K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\build-signature\signature
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
-K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\MauiInfo.plist
-K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\MauiSplash.storyboard
-K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\sp\Resources\splash_screen_86862A57CEB01948E9747E15167DCA26FD33CB54FC7E9A5FCFF9663479F2AE8B.png
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.stamp
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\icon_xxhdpi.appiconset\icon_xxhdpiItunesArtwork.png
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\Assets.xcassets\icon_xxhdpi.appiconset\icon_xxhdpi83.5x83.5@2x.png
@@ -339,8 +336,6 @@ K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Sem
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\actool\_PartialAppManifest.items
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\actool\_BundleResourceWithLogicalName.items
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\actool\_ProcessedImageAssetsPath.items
-K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\ibtool\_BundleResourceWithLogicalName.items
-K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\ibtool\_ProcessedInterfaceDefinitionsPath.items
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\coremlc\_PartialAppManifest.items
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\coremlc\_BundleResourceWithLogicalName.items
 K:\CareerD\CDMA\obj\Debug\net8.0-ios\iossimulator-x64\coremlc\_ProcessedCoreMLModelsPath.items
