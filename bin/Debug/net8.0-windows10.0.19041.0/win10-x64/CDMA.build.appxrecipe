@@ -46,144 +46,6 @@
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Semibold.ttf">
       <PackagePath>OpenSans-Semibold.ttf</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-400.png">
-      <PackagePath>icon_mdpiLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-200.png">
-      <PackagePath>icon_mdpiLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-150.png">
-      <PackagePath>icon_mdpiLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-125.png">
-      <PackagePath>icon_mdpiLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-100.png">
-      <PackagePath>icon_mdpiLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-400.png">
-      <PackagePath>icon_mdpiWideTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-200.png">
-      <PackagePath>icon_mdpiWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-150.png">
-      <PackagePath>icon_mdpiWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-125.png">
-      <PackagePath>icon_mdpiWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-100.png">
-      <PackagePath>icon_mdpiWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-400.png">
-      <PackagePath>icon_mdpiMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-200.png">
-      <PackagePath>icon_mdpiMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-150.png">
-      <PackagePath>icon_mdpiMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-125.png">
-      <PackagePath>icon_mdpiMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-100.png">
-      <PackagePath>icon_mdpiMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-400.png">
-      <PackagePath>icon_mdpiSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-200.png">
-      <PackagePath>icon_mdpiSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-150.png">
-      <PackagePath>icon_mdpiSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-125.png">
-      <PackagePath>icon_mdpiSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-100.png">
-      <PackagePath>icon_mdpiSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-400.png">
-      <PackagePath>icon_mdpiStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-200.png">
-      <PackagePath>icon_mdpiStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-150.png">
-      <PackagePath>icon_mdpiStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-125.png">
-      <PackagePath>icon_mdpiStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-100.png">
-      <PackagePath>icon_mdpiStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-256.png">
-      <PackagePath>icon_mdpiLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-48.png">
-      <PackagePath>icon_mdpiLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-32.png">
-      <PackagePath>icon_mdpiLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-24.png">
-      <PackagePath>icon_mdpiLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-16.png">
-      <PackagePath>icon_mdpiLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-400.png">
-      <PackagePath>icon_mdpiLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-200.png">
-      <PackagePath>icon_mdpiLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-150.png">
-      <PackagePath>icon_mdpiLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-125.png">
-      <PackagePath>icon_mdpiLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-100.png">
-      <PackagePath>icon_mdpiLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpi.ico">
-      <PackagePath>icon_mdpi.ico</PackagePath>
-    </AppxPackagedFile>
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_xxxhdpiLargeTile.scale-400.png">
       <PackagePath>icon_xxxhdpiLargeTile.scale-400.png</PackagePath>
     </AppxPackagedFile>
@@ -321,144 +183,6 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_xxxhdpi.ico">
       <PackagePath>icon_xxxhdpi.ico</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-400.png">
-      <PackagePath>icon_hdpiLargeTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-200.png">
-      <PackagePath>icon_hdpiLargeTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-150.png">
-      <PackagePath>icon_hdpiLargeTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-125.png">
-      <PackagePath>icon_hdpiLargeTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-100.png">
-      <PackagePath>icon_hdpiLargeTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-400.png">
-      <PackagePath>icon_hdpiWideTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-200.png">
-      <PackagePath>icon_hdpiWideTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-150.png">
-      <PackagePath>icon_hdpiWideTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-125.png">
-      <PackagePath>icon_hdpiWideTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-100.png">
-      <PackagePath>icon_hdpiWideTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-400.png">
-      <PackagePath>icon_hdpiMediumTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-200.png">
-      <PackagePath>icon_hdpiMediumTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-150.png">
-      <PackagePath>icon_hdpiMediumTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-125.png">
-      <PackagePath>icon_hdpiMediumTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-100.png">
-      <PackagePath>icon_hdpiMediumTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-400.png">
-      <PackagePath>icon_hdpiSmallTile.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-200.png">
-      <PackagePath>icon_hdpiSmallTile.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-150.png">
-      <PackagePath>icon_hdpiSmallTile.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-125.png">
-      <PackagePath>icon_hdpiSmallTile.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-100.png">
-      <PackagePath>icon_hdpiSmallTile.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-400.png">
-      <PackagePath>icon_hdpiStoreLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-200.png">
-      <PackagePath>icon_hdpiStoreLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-150.png">
-      <PackagePath>icon_hdpiStoreLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-125.png">
-      <PackagePath>icon_hdpiStoreLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-100.png">
-      <PackagePath>icon_hdpiStoreLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-256.png">
-      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-48.png">
-      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-32.png">
-      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-24.png">
-      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-16.png">
-      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-256.png">
-      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-48.png">
-      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-32.png">
-      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-24.png">
-      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-16.png">
-      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-256.png">
-      <PackagePath>icon_hdpiLogo.targetsize-256.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-48.png">
-      <PackagePath>icon_hdpiLogo.targetsize-48.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-32.png">
-      <PackagePath>icon_hdpiLogo.targetsize-32.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-24.png">
-      <PackagePath>icon_hdpiLogo.targetsize-24.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-16.png">
-      <PackagePath>icon_hdpiLogo.targetsize-16.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-400.png">
-      <PackagePath>icon_hdpiLogo.scale-400.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-200.png">
-      <PackagePath>icon_hdpiLogo.scale-200.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-150.png">
-      <PackagePath>icon_hdpiLogo.scale-150.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-125.png">
-      <PackagePath>icon_hdpiLogo.scale-125.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-100.png">
-      <PackagePath>icon_hdpiLogo.scale-100.png</PackagePath>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpi.ico">
-      <PackagePath>icon_hdpi.ico</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_xhdpiLargeTile.scale-400.png">
       <PackagePath>icon_xhdpiLargeTile.scale-400.png</PackagePath>
@@ -736,6 +460,144 @@
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_xxhdpi.ico">
       <PackagePath>icon_xxhdpi.ico</PackagePath>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-400.png">
+      <PackagePath>icon_hdpiLargeTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-200.png">
+      <PackagePath>icon_hdpiLargeTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-150.png">
+      <PackagePath>icon_hdpiLargeTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-125.png">
+      <PackagePath>icon_hdpiLargeTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLargeTile.scale-100.png">
+      <PackagePath>icon_hdpiLargeTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-400.png">
+      <PackagePath>icon_hdpiWideTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-200.png">
+      <PackagePath>icon_hdpiWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-150.png">
+      <PackagePath>icon_hdpiWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-125.png">
+      <PackagePath>icon_hdpiWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiWideTile.scale-100.png">
+      <PackagePath>icon_hdpiWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-400.png">
+      <PackagePath>icon_hdpiMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-200.png">
+      <PackagePath>icon_hdpiMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-150.png">
+      <PackagePath>icon_hdpiMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-125.png">
+      <PackagePath>icon_hdpiMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiMediumTile.scale-100.png">
+      <PackagePath>icon_hdpiMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-400.png">
+      <PackagePath>icon_hdpiSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-200.png">
+      <PackagePath>icon_hdpiSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-150.png">
+      <PackagePath>icon_hdpiSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-125.png">
+      <PackagePath>icon_hdpiSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiSmallTile.scale-100.png">
+      <PackagePath>icon_hdpiSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-400.png">
+      <PackagePath>icon_hdpiStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-200.png">
+      <PackagePath>icon_hdpiStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-150.png">
+      <PackagePath>icon_hdpiStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-125.png">
+      <PackagePath>icon_hdpiStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiStoreLogo.scale-100.png">
+      <PackagePath>icon_hdpiStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>icon_hdpiLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>icon_hdpiLogo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-256.png">
+      <PackagePath>icon_hdpiLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-48.png">
+      <PackagePath>icon_hdpiLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-32.png">
+      <PackagePath>icon_hdpiLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-24.png">
+      <PackagePath>icon_hdpiLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.targetsize-16.png">
+      <PackagePath>icon_hdpiLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-400.png">
+      <PackagePath>icon_hdpiLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-200.png">
+      <PackagePath>icon_hdpiLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-150.png">
+      <PackagePath>icon_hdpiLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-125.png">
+      <PackagePath>icon_hdpiLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpiLogo.scale-100.png">
+      <PackagePath>icon_hdpiLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_hdpi.ico">
+      <PackagePath>icon_hdpi.ico</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
     </AppxPackagedFile>
@@ -750,6 +612,144 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-400.png">
+      <PackagePath>icon_mdpiLargeTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-200.png">
+      <PackagePath>icon_mdpiLargeTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-150.png">
+      <PackagePath>icon_mdpiLargeTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-125.png">
+      <PackagePath>icon_mdpiLargeTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLargeTile.scale-100.png">
+      <PackagePath>icon_mdpiLargeTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-400.png">
+      <PackagePath>icon_mdpiWideTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-200.png">
+      <PackagePath>icon_mdpiWideTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-150.png">
+      <PackagePath>icon_mdpiWideTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-125.png">
+      <PackagePath>icon_mdpiWideTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiWideTile.scale-100.png">
+      <PackagePath>icon_mdpiWideTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-400.png">
+      <PackagePath>icon_mdpiMediumTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-200.png">
+      <PackagePath>icon_mdpiMediumTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-150.png">
+      <PackagePath>icon_mdpiMediumTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-125.png">
+      <PackagePath>icon_mdpiMediumTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiMediumTile.scale-100.png">
+      <PackagePath>icon_mdpiMediumTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-400.png">
+      <PackagePath>icon_mdpiSmallTile.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-200.png">
+      <PackagePath>icon_mdpiSmallTile.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-150.png">
+      <PackagePath>icon_mdpiSmallTile.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-125.png">
+      <PackagePath>icon_mdpiSmallTile.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiSmallTile.scale-100.png">
+      <PackagePath>icon_mdpiSmallTile.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-400.png">
+      <PackagePath>icon_mdpiStoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-200.png">
+      <PackagePath>icon_mdpiStoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-150.png">
+      <PackagePath>icon_mdpiStoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-125.png">
+      <PackagePath>icon_mdpiStoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiStoreLogo.scale-100.png">
+      <PackagePath>icon_mdpiStoreLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-256.png">
+      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-48.png">
+      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-32.png">
+      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-24.png">
+      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-lightunplated_targetsize-16.png">
+      <PackagePath>icon_mdpiLogo.altform-lightunplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-256.png">
+      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-48.png">
+      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-32.png">
+      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-24.png">
+      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.altform-unplated_targetsize-16.png">
+      <PackagePath>icon_mdpiLogo.altform-unplated_targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-256.png">
+      <PackagePath>icon_mdpiLogo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-48.png">
+      <PackagePath>icon_mdpiLogo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-32.png">
+      <PackagePath>icon_mdpiLogo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-24.png">
+      <PackagePath>icon_mdpiLogo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.targetsize-16.png">
+      <PackagePath>icon_mdpiLogo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-400.png">
+      <PackagePath>icon_mdpiLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-200.png">
+      <PackagePath>icon_mdpiLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-150.png">
+      <PackagePath>icon_mdpiLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-125.png">
+      <PackagePath>icon_mdpiLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpiLogo.scale-100.png">
+      <PackagePath>icon_mdpiLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="K:\CareerD\CDMA\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\icon_mdpi.ico">
+      <PackagePath>icon_mdpi.ico</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="K:\CareerD\CDMA\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\CDMA.deps.json">
       <PackagePath>CDMA.deps.json</PackagePath>
