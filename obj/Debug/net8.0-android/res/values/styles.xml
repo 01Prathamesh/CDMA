@@ -1,0 +1,1 @@
+<resources><style name="SplashTheme" parent="Theme.AppCompat.Light.NoActionBar"><item name="android:windowBackground">@drawable/splash_screen</item></style></resources>

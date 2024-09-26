@@ -6,6 +6,7 @@
     <ActiveDebugProfile>Pixel 5 - API 34 (Android 14.0 - API 34)</ActiveDebugProfile>
     <SelectedPlatformGroup>Emulator</SelectedPlatformGroup>
     <DefaultDevice>pixel_5_-_api_34</DefaultDevice>
+    <AndroidDesignerPreferredTheme>SplashTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
   <ItemGroup>
     <MauiXaml Update="CareerListPage.xaml">
