@@ -27,20 +27,18 @@
                 <Label Text="Explore career paths, visualize career opportunities, and manage your career planning efficiently." 
                        HorizontalTextAlignment="Center" Margin="0,0,0,20"/>
 
-                <!-- Buttons StackLayout -->
                 <StackLayout Orientation="Vertical" HorizontalOptions="Center" Spacing="10" Margin="0,10">
                     <Button Text="View Career List" Clicked="OnViewCareerListClicked" WidthRequest="150" />
                     <Button Text="View Dendrogram" Clicked="OnViewDendrogramClicked" WidthRequest="150" />
                     <Button Text="Start Test" Clicked="OnStartTestClicked" WidthRequest="100" />
                 </StackLayout>
+
+                <!-- Footer -->
+                <StackLayout BackgroundColor="#333" Padding="10" VerticalOptions="End">
+                    <Label Text="© 2024 Career Dendrogram (HAPY - CaptainPrince). All rights reserved." 
+                           TextColor="White" HorizontalTextAlignment="Center" FontSize="12"/>
+                </StackLayout>
             </StackLayout>
         </ScrollView>
     </ShellContent>
-
-    <!-- Footer -->
-    <StackLayout BackgroundColor="#333" Padding="10" VerticalOptions="End">
-        <Label Text="© 2024 Career Dendrogram (HAPY - CaptainPrince). All rights reserved." 
-               TextColor="White" HorizontalTextAlignment="Center" FontSize="12"/>
-    </StackLayout>
-
 </Shell>
