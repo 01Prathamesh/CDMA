@@ -212,7 +212,6 @@ K:\CareerD\CDMA\obj\Debug\net8.0-android\android\bin\com.companyname.cdma.aab
 K:\CareerD\CDMA\obj\Debug\net8.0-android\android\bin\com.companyname.cdma.apks
 K:\CareerD\CDMA\obj\Debug\net8.0-android\res\values\colors.xml
 K:\CareerD\CDMA\obj\Debug\net8.0-android\res\values\styles.xml
-K:\CareerD\CDMA\obj\Debug\net8.0-android\res\drawable\splash_screen.png
 K:\CareerD\CDMA\obj\Debug\net8.0-android\uploadflags.txt
 K:\CareerD\CDMA\obj\Debug\net8.0-android\resolvedassemblies.hash
 K:\CareerD\CDMA\obj\Debug\net8.0-android\android\assets\arm64-v8a\System.Private.CoreLib.dll
@@ -1128,3 +1127,9 @@ K:\CareerD\CDMA\obj\Debug\net8.0-android\stamp\_GenerateJavaStubs.stamp
 K:\CareerD\CDMA\obj\Debug\net8.0-android\stamp\_GeneratePackageManagerJava.stamp
 K:\CareerD\CDMA\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
 K:\CareerD\CDMA\obj\Debug\net8.0-android\android\assets\System.Private.CoreLib.dll
+K:\CareerD\CDMA\obj\Debug\net8.0-android\res\drawable-hdpi\splash_screen.png
+K:\CareerD\CDMA\obj\Debug\net8.0-android\res\drawable-mdpi\splash_screen.png
+K:\CareerD\CDMA\obj\Debug\net8.0-android\res\drawable-xhdpi\splash_screen.png
+K:\CareerD\CDMA\obj\Debug\net8.0-android\res\drawable-xxhdpi\splash_screen.png
+K:\CareerD\CDMA\obj\Debug\net8.0-android\res\drawable-xxxhdpi\splash_screen.png
+K:\CareerD\CDMA\obj\Debug\net8.0-android\android\src\crc64da4405c0533d3683\MainActivity.java

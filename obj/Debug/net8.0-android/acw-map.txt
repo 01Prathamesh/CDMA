@@ -1,9 +1,9 @@
-CDMA.MainActivity, CDMA;crc647acc390e2562aa2e.MainActivity
-CDMA.MainActivity;crc647acc390e2562aa2e.MainActivity
-cdma.MainActivity;crc647acc390e2562aa2e.MainActivity
 CDMA.MainApplication, CDMA;crc647acc390e2562aa2e.MainApplication
 CDMA.MainApplication;crc647acc390e2562aa2e.MainApplication
 cdma.MainApplication;crc647acc390e2562aa2e.MainApplication
+CDMA.Platforms.Android.MainActivity, CDMA;crc64da4405c0533d3683.MainActivity
+CDMA.Platforms.Android.MainActivity;crc64da4405c0533d3683.MainActivity
+cdma.platforms.android.MainActivity;crc64da4405c0533d3683.MainActivity
 GoogleGson.IExclusionStrategy, GoogleGson;com.google.gson.ExclusionStrategy
 GoogleGson.IExclusionStrategy;com.google.gson.ExclusionStrategy
 com.google.gson.ExclusionStrategy;com.google.gson.ExclusionStrategy
