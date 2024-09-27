@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CDMA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+53ad6a9a226e278f7aa27bcae44c9f826d7613ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+15ea8087ad6bea395fbfc3883c945b95430fb7f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("CDMA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CDMA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -24,11 +24,11 @@ namespace CDMA.ViewModels
                 }
             }
         }
-        public ICommand OnLoginCommand => new Command(async () => await OnLoginClicked());
-        public ICommand OnLogoutCommand => new Command(async () => await OnLogoutClicked());
-
-
+        
         public bool IsLoggedOut => !IsLoggedIn;
+
+        public ICommand OnLoginCommand { get; }
+        public ICommand OnLogoutCommand { get; }
 
         // Event to notify when a property changes
         public event PropertyChangedEventHandler? PropertyChanged;
@@ -58,6 +58,8 @@ namespace CDMA.ViewModels
         public MainViewModel()
         {
             Username = "User"; // Default username
+            OnLoginCommand = new Command(async () => await OnLoginClicked());
+            OnLogoutCommand = new Command(async () => await OnLogoutClicked());
         }
 
         // Login method
