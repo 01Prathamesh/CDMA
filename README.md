@@ -1,4 +1,4 @@
-# Career Dendrogram Mobile App
+# Career Dendrogram Mobile App (CDMA)
 # {Work In Progress}
 ![Project Logo](Resources/AppIcon/Mipmap/mipmap-xxxhdpi/icon_xxxhdpi.png)
 
