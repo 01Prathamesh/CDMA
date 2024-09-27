@@ -21,6 +21,9 @@
     <MauiXaml Update="ProfilePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="RegisterPage.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
     <MauiXaml Update="StartTestPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>

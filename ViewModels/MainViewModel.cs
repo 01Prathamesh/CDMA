@@ -1,15 +1,35 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.ComponentModel;
 using System.Runtime.CompilerServices;
+using System.Windows.Input;
+using System.Threading.Tasks;
 
 namespace CDMA.ViewModels
 {
     internal class MainViewModel : INotifyPropertyChanged
     {
+        private bool isLoggedIn;
+
+        public bool IsLoggedIn
+        {
+            get => isLoggedIn;
+            set
+            {
+                if (isLoggedIn != value)
+                {
+                    isLoggedIn = value;
+                    OnPropertyChanged(nameof(IsLoggedIn));
+                    OnPropertyChanged(nameof(IsLoggedOut));
+                    // Note: Do not call UpdateToolbarItems here
+                }
+            }
+        }
+        public ICommand OnLoginCommand => new Command(async () => await OnLoginClicked());
+        public ICommand OnLogoutCommand => new Command(async () => await OnLogoutClicked());
+
+
+        public bool IsLoggedOut => !IsLoggedIn;
+
         // Event to notify when a property changes
         public event PropertyChangedEventHandler? PropertyChanged;
 
@@ -38,6 +58,23 @@ namespace CDMA.ViewModels
         public MainViewModel()
         {
             Username = "User"; // Default username
+        }
+
+        // Login method
+        private async Task OnLoginClicked()
+        {
+            // Your login logic here
+            // For example:
+            await Task.Delay(500); // Simulate login process
+            IsLoggedIn = true; // Update login state
+        }
+
+        // Logout method
+        private async Task OnLogoutClicked()
+        {
+            // Your logout logic here
+            await Task.Delay(500); // Simulate logout process
+            IsLoggedIn = false; // Update login state
         }
     }
 }

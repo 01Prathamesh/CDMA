@@ -4,38 +4,44 @@
              x:Class="CDMA.MainPage"
              BackgroundColor="#f4f4f4">
 
-    <VerticalStackLayout Padding="0" Spacing="0">
+    <Shell Title="Career Dendrogram" BackgroundColor="#f4f4f4">
 
-        <!-- Header -->
-        <StackLayout BackgroundColor="#333" Padding="10">
-            <Label Text="Home" FontSize="24" TextColor="White" HorizontalOptions="Center"/>
-            <StackLayout Orientation="Horizontal" HorizontalOptions="EndAndExpand" VerticalOptions="Center">
-                <Label Text="{Binding Username}" TextColor="White" FontAttributes="Bold" Margin="0,0,10,0"/>
-                <Button Text="Logout" BackgroundColor="#007bff" TextColor="White" Clicked="OnLogoutClicked" WidthRequest="80"/>
+        <!-- Navigation Bar -->
+        <Shell.FlyoutHeader>
+            <StackLayout BackgroundColor="#333" Padding="10">
+                <Label Text="Career Dendrogram" FontSize="24" TextColor="White" HorizontalOptions="Center"/>
             </StackLayout>
-        </StackLayout>
+        </Shell.FlyoutHeader>
+
+        <Shell.ToolbarItems>
+            <ToolbarItem Text="Login" Command="{Binding OnLoginCommand}"/>
+            <ToolbarItem Text="Register" Clicked="OnRegisterClicked"/>
+            <ToolbarItem Text="Profile" Clicked="OnProfileClicked"/>
+            <ToolbarItem Text="Logout" Command="{Binding OnLogoutCommand}"/>
+        </Shell.ToolbarItems>
 
         <!-- Content Area -->
-        <ScrollView>
-            <StackLayout Padding="20" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-                <Label Text="Welcome to the Career Dendrogram" FontSize="24" HorizontalTextAlignment="Center" Margin="0,10"/>
-                <Label Text="Explore career paths, visualize career opportunities, and manage your career planning efficiently." 
-                       HorizontalTextAlignment="Center" Margin="0,0,0,20"/>
+        <ShellContent>
+            <ScrollView>
+                <StackLayout Padding="20" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                    <Label Text="Welcome to the Career Dendrogram" FontSize="24" HorizontalTextAlignment="Center" Margin="0,10"/>
+                    <Label Text="Explore career paths, visualize career opportunities, and manage your career planning efficiently." 
+                        HorizontalTextAlignment="Center" Margin="0,0,0,20"/>
 
-                <StackLayout Orientation="Horizontal" HorizontalOptions="Center" Spacing="10" Margin="0,10">
-                    <Button Text="Logout" Clicked="OnLogoutClicked" WidthRequest="100" />
-                    <Button Text="View Career List" Clicked="OnViewCareerListClicked" WidthRequest="150" />
-                    <Button Text="View Dendrogram" Clicked="OnViewDendrogramClicked" WidthRequest="150" />
-                    <Button Text="View Profile" Clicked="OnViewProfileClicked" WidthRequest="100" />
-                    <Button Text="Start Test" Clicked="OnStartTestClicked" WidthRequest="100" />
+                    <!-- Vertical StackLayout for Buttons -->
+                    <StackLayout Orientation="Vertical" HorizontalOptions="Center" Spacing="10" Margin="0,10">
+                        <Button Text="View Career List" Clicked="OnViewCareerListClicked" WidthRequest="150" />
+                        <Button Text="View Dendrogram" Clicked="OnViewDendrogramClicked" WidthRequest="150" />
+                        <Button Text="Start Test" Clicked="OnStartTestClicked" WidthRequest="100" />
+                    </StackLayout>
                 </StackLayout>
-            </StackLayout>
-        </ScrollView>
+            </ScrollView>
+        </ShellContent>
 
         <!-- Footer -->
         <StackLayout BackgroundColor="#333" Padding="10" VerticalOptions="End">
             <Label Text="© 2024 Career Dendrogram (HAPY - CaptainPrince). All rights reserved." 
                    TextColor="White" HorizontalTextAlignment="Center" FontSize="12"/>
         </StackLayout>
-    </VerticalStackLayout>
+    </Shell>
 </ContentPage>
