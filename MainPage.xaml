@@ -1,17 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
        xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:local="clr-namespace:CDMA.Views"
        x:Class="CDMA.MainPage"
        BackgroundColor="#f4f4f4">
 
-    <!-- Flyout Header -->
     <Shell.FlyoutHeader>
         <StackLayout BackgroundColor="#333" Padding="10">
             <Label Text="Career Dendrogram" FontSize="24" TextColor="White" HorizontalOptions="Center"/>
         </StackLayout>
     </Shell.FlyoutHeader>
 
-    <!-- Toolbar Items -->
     <Shell.ToolbarItems>
         <ToolbarItem Text="Login" Command="{Binding OnLoginCommand}"/>
         <ToolbarItem Text="Register" Clicked="OnRegisterClicked"/>
@@ -19,26 +18,5 @@
         <ToolbarItem Text="Logout" Command="{Binding OnLogoutCommand}"/>
     </Shell.ToolbarItems>
 
-    <!-- Main Content Area -->
-    <ShellContent Title="Home">
-        <ScrollView>
-            <StackLayout Padding="20" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
-                <Label Text="Welcome to the Career Dendrogram" FontSize="24" HorizontalTextAlignment="Center" Margin="0,10"/>
-                <Label Text="Explore career paths, visualize career opportunities, and manage your career planning efficiently." 
-                       HorizontalTextAlignment="Center" Margin="0,0,0,20"/>
-
-                <StackLayout Orientation="Vertical" HorizontalOptions="Center" Spacing="10" Margin="0,10">
-                    <Button Text="View Career List" Clicked="OnViewCareerListClicked" WidthRequest="150" />
-                    <Button Text="View Dendrogram" Clicked="OnViewDendrogramClicked" WidthRequest="150" />
-                    <Button Text="Start Test" Clicked="OnStartTestClicked" WidthRequest="100" />
-                </StackLayout>
-
-                <!-- Footer -->
-                <StackLayout BackgroundColor="#333" Padding="10" VerticalOptions="End">
-                    <Label Text="© 2024 Career Dendrogram (HAPY - CaptainPrince). All rights reserved." 
-                           TextColor="White" HorizontalTextAlignment="Center" FontSize="12"/>
-                </StackLayout>
-            </StackLayout>
-        </ScrollView>
-    </ShellContent>
+    <ShellContent Title="Home" ContentTemplate="{DataTemplate local:HomePage}" />
 </Shell>
