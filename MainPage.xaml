@@ -11,12 +11,5 @@
         </StackLayout>
     </Shell.FlyoutHeader>
 
-    <Shell.ToolbarItems>
-        <ToolbarItem Text="Login" Command="{Binding OnLoginCommand}"/>
-        <ToolbarItem Text="Register" Clicked="OnRegisterClicked"/>
-        <ToolbarItem Text="Profile" Clicked="OnProfileClicked"/>
-        <ToolbarItem Text="Logout" Command="{Binding OnLogoutCommand}"/>
-    </Shell.ToolbarItems>
-
     <ShellContent Title="Home" ContentTemplate="{DataTemplate local:HomePage}" />
 </Shell>

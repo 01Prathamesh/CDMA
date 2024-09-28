@@ -9,25 +9,25 @@
     <AndroidDesignerPreferredTheme>SplashTheme</AndroidDesignerPreferredTheme>
   </PropertyGroup>
   <ItemGroup>
-    <MauiXaml Update="CareerListPage.xaml">
+    <MauiXaml Update="Views\CareerListPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="DendrogramPage.xaml">
+    <MauiXaml Update="Views\DendrogramPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
     <MauiXaml Update="Views\HomePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="LoginPage.xaml">
+    <MauiXaml Update="Views\LoginPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="ProfilePage.xaml">
+    <MauiXaml Update="Views\ProfilePage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="RegisterPage.xaml">
+    <MauiXaml Update="Views\RegisterPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
-    <MauiXaml Update="StartTestPage.xaml">
+    <MauiXaml Update="Views\StartTestPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
   </ItemGroup>
