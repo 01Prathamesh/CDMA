@@ -1,6 +1,6 @@
 using Microsoft.Maui.Controls;
 
-namespace CDMA
+namespace CDMA.Views
 {
     public partial class HomePage : ContentPage
     {
@@ -9,10 +9,9 @@ namespace CDMA
             InitializeComponent();
         }
 
-        // Add your button click event handlers here
+        // Button click event handlers
         private async void OnViewCareerListClicked(object sender, EventArgs e)
         {
-            // Handle the button click, for example:
             await Navigation.PushAsync(new CareerListPage());
         }
 
