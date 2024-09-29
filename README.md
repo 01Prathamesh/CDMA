@@ -75,4 +75,4 @@ Contributions are welcome! If you'd like to contribute to the Career Dendrogram 
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.txt) file for more details.
