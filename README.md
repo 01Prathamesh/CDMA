@@ -49,7 +49,7 @@ This project is built using **.NET MAUI**, allowing for cross-platform compatibi
 
 2. Navigate to the project directory:
    ```bash
-   cd career-dendrogram-app
+   cd CDMA
 3. Restore the dependencies:
    ```bash
    dotnet restore
