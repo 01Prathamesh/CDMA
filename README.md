@@ -45,7 +45,7 @@ This project is built using **.NET MAUI**, allowing for cross-platform compatibi
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/career-dendrogram-app.git
+   git clone [https://github.com/yourusername/career-dendrogram-app.git](https://github.com/01Prathamesh/CDMA.git)
 
 2. Navigate to the project directory:
    ```bash
